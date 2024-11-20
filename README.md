@@ -16,3 +16,7 @@ to this in your browser, and you can call your Go code from devtools.
 To build a redistributable, production mode package, use `wails build`.
 
 ## Run the app
+
+```
+./build/bin/wailsapp.app/Contents/MacOS/wailsapp
+```
